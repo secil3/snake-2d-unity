@@ -15,3 +15,9 @@
 *.pidb
 *.pdb
 *.mdb
+# Build files
+Build/
+Builds/
+*.app
+*.exe
+
